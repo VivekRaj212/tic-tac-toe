@@ -1,0 +1,7 @@
+.board-container {
+  height:max-content;
+  width: 50%;
+  position: relative;
+  right: -22rem;
+  bottom: -5rem;
+}
